@@ -1,0 +1,1 @@
+{"lead_time": 1, "forecast_start": "1980-06-01", "forecast_end": "2010-12-01", "data_path": "pre_standard", "variables": { "sic": 4, "2m_temperature": 1, "sea_surface_temperature": 1, "mean_sea_level_pressure": 1, "surface_solar_radiation_upwards": 1, "surface_net_solar_radiation": 1, "10m_v_component_of_wind": 1}, "batch_size": 3, "permute_variable": null}
